@@ -38,7 +38,6 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
  ![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white) 
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
 
-
 ## 🚀 My Projects
 - **[Test Time Adaptation via Segmentations and Focused Feature Learning](https://github.com/stefanoobonetto/DeepLearning_project)**: development of TTA strategies to improve neural network robustness on domain shift tasks using MEMO.
 - **[Aspect-Based Sentiment Analysis with BERT](https://github.com/stefanoobonetto/AspectBasedSentimentAnalysis)**: focused on extracting aspect terms using BERT from the SemEval2014 Task 4 dataset.
@@ -49,3 +48,5 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 - **Email**: [stefanoobonetto@gmail.com](mailto:stefanoobonetto@gmail.com)
 - **LinkedIn**: [Stefano Bonetto](https://www.linkedin.com/in/stefano-bonetto/)
 
+<!--## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoobonetto&layout=compact)--!>
