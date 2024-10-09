@@ -2,9 +2,11 @@
 
 Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Computer Vision with a passion for solving real-world problems using machine learning and deep learning. Here's a bit about me:
 
-- 🎓 I’m currently pursuing a Master’s Degree in Artificial Intelligence Systems at the University of Trento, Italy.
-- 🔭 I’m currently working on a research project focused on brain gliomas, using deep learning to analyze MRI images for detection, segmentation, and classification of brain tumors.
-- 🌱 I’m always learning and currently exploring advanced deep learning techniques.
+🎓 I’m currently pursuing a Master’s Degree in Artificial Intelligence Systems at the University of Trento, Italy.
+
+🔭 I’m currently working on a research project focused on brain gliomas, using deep learning to analyze MRI images for detection, segmentation, and classification of brain tumors.
+
+🌱 I’m always learning and currently exploring advanced deep learning techniques.
 
 ## 💻 My Technical Skills
 
@@ -15,7 +17,7 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
 
-### Frameworks & Libraries
+### Frameworks & Libraries 
  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
  ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
