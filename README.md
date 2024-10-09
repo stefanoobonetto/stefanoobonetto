@@ -7,11 +7,36 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 - 🌱 I’m always learning and currently exploring advanced deep learning techniques.
 
 ## 💻 My Technical Skills
-- **Languages**: Python, C, C++, Java, JavaScript, SQL
-- **Frameworks & Libraries**: PyTorch, TensorFlow, ROS, Docker, OpenCV
-- **Expertise**: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
-- **Tools**: Git, LATEX
-- **Operating Systems**: Unix-based and Windows-based systems
+
+### Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) **C**
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++**
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) **Java**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **SQL**
+
+### Frameworks & Libraries
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) **PyTorch**
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) **TensorFlow**
+- ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) **ROS**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) **OpenCV**
+
+### Expertise
+- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logoColor=white) **Machine Learning**
+- ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=white) **Deep Learning**
+- ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-102230?style=flat-square&logo=opencv&logoColor=white) **Computer Vision**
+- ![Natural Language Processing](https://img.shields.io/badge/-NLP-102230?style=flat-square&logo=spacy&logoColor=white) **Natural Language Processing**
+
+### Tools
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) **Git**
+- ![LATEX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) **LaTeX**
+
+### Operating Systems
+- ![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white) **Unix-based systems**
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) **Windows-based systems**
+
 
 ## 🚀 My Projects
 - **[Test Time Adaptation via Segmentations and Focused Feature Learning](https://github.com/stefanoobonetto/DeepLearning_project)**: development of TTA strategies to improve neural network robustness on domain shift tasks using MEMO.
