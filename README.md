@@ -1,4 +1,14 @@
-# Hi, I'm Stefano Bonetto 👋
+<h1 align="center">Hi, I'm Stefano Bonetto 👋 </h1>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/stefano-bonetto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:stefanoobonetto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></img>
+  </a> 
+</p>
+
 
 Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Computer Vision with a passion for solving real-world problems using machine learning and deep learning. Here's a bit about me:
 
