@@ -45,9 +45,7 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
  ![LATEX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) 
 
 ### Operating Systems
-![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ## 🚀 My Projects
 - **[Test Time Adaptation via Segmentations and Focused Feature Learning](https://github.com/stefanoobonetto/DeepLearning_project)**: development of TTA strategies to improve neural network robustness on domain shift tasks using MEMO.
