@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 If you’d like to know more about my professional experience and skills, feel free to download my resume below:
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK_HERE" download="Stefano_Bonetto_Resume">
+  <a href="https://github.com/stefanoobonetto/stefanoobonetto/blob/main/RESUME_stefano_bonetto.pdf" download="Stefano_Bonetto_Resume">
     <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"></img>
   </a>
 </p>
