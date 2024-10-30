@@ -53,6 +53,16 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 - **[RNN Optimizations for NLP](https://github.com/stefanoobonetto/LM_RNN-Optimizations)**: enhanced RNNs using LSTM, dropout layers, and NT-AvSGD techniques for better NLP task performance.
 - **[Robotic Arm Motion Planning with YOLO Recognition](https://github.com/MattiaRigon/Ur5_motion_and_Lego_Detection)**: developed a motion planning system for a UR5 robotic arm integrated with YOLO for object recognition and manipulation.
 
+## 📄 My Resume
+
+If you’d like to know more about my professional experience and skills, feel free to download my resume below:
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK_HERE" download="Stefano_Bonetto_Resume">
+    <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"></img>
+  </a>
+</p>
+
 ## 🌍 Let's Connect
 - **Email**: [stefanoobonetto@gmail.com](mailto:stefanoobonetto@gmail.com)
 - **LinkedIn**: [Stefano Bonetto](https://www.linkedin.com/in/stefano-bonetto/)
