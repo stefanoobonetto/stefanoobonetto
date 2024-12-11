@@ -59,6 +59,11 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 - **[Aspect-Based Sentiment Analysis with BERT](https://github.com/stefanoobonetto/AspectBasedSentimentAnalysis)**: focused on extracting aspect terms using BERT from the SemEval2014 Task 4 dataset.
 - **[RNN Optimizations for NLP](https://github.com/stefanoobonetto/LM_RNN-Optimizations)**: enhanced RNNs using LSTM, dropout layers, and NT-AvSGD techniques for better NLP task performance.
 - **[Robotic Arm Motion Planning with YOLO Recognition](https://github.com/MattiaRigon/Ur5_motion_and_Lego_Detection)**: developed a motion planning system for a UR5 robotic arm integrated with YOLO for object recognition and manipulation.
+- **[Volleyball Match Analysis and 3D Reconstruction](https://github.com/stefanoobonetto/computer-vision-project)**: focused on processing and analyzing a volleyball match captured from 10 different camera views. The project includes:
+  - **Calibration**: 3D reconstruction of camera positions relative to the field, divided into intrinsic and extrinsic camera calibration.
+  - **Homography**: a tool allowing users to click on a specific point on the court or any camera view, instantly displaying the corresponding point across another camera angle.
+  - **3D Ball Tracking**: reconstructing a 3D model of the court and plotting the ball's trajectory using advanced tracking algorithms.
+
 
 ---
 
