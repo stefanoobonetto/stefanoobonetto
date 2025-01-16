@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 
 🎓 I’m currently pursuing a Master’s Degree in Artificial Intelligence Systems at the University of Trento, Italy.
 
-🔭 I’m currently working on a research project focused on brain gliomas, using deep learning to analyze MRI images for detection, segmentation, and classification of brain tumors.
+🔭 I’m working on a research project focused on brain gliomas, using deep learning to analyze MRI images for detection, segmentation, and classification of brain tumors.
 
 🌱 When I'm not coding, you'll likely find me in the mountains, maybe climbing, skiing, or carving out new trails on a run.
 
