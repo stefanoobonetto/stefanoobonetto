@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 
 🌱 When I'm not coding, you'll likely find me in the mountains, maybe climbing, skiing, or carving out new trails on a run.
 
----
 
 ## 💻 My Technical Skills
 
@@ -52,7 +51,6 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
----
 
 ## 🚀 My Projects
 - **[Test Time Adaptation via Segmentations and Focused Feature Learning](https://github.com/stefanoobonetto/DeepLearning_project)**: development of TTA strategies to improve neural network robustness on domain shift tasks using MEMO.
@@ -64,16 +62,12 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
   - **Homography**: a tool allowing users to click on a specific point on the court or any camera view, instantly displaying the corresponding point across another camera angle.
   - **3D Ball Tracking**: reconstructing a 3D model of the court and plotting the ball's trajectory using advanced tracking algorithms.
 
-
----
 <div align="center">
 
 [![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanoobonetto&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radious=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Stefano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoobonetto&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/stefanoobonetto)
 
 </div>
-
---- 
 
 ## 📄 My Resume
 
@@ -85,7 +79,6 @@ If you’d like to know more about my professional experience and skills, feel f
   </a>
 </p>
 
----
 
 ## 🌍 Let's Connect
 - **Email**: [stefanoobonetto@gmail.com](mailto:stefanoobonetto@gmail.com)
