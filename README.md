@@ -72,6 +72,7 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 [![Stefano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoobonetto&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/stefanoobonetto)
 
 </div>
+
 --- 
 
 ## 📄 My Resume
