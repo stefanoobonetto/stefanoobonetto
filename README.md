@@ -69,8 +69,8 @@ Welcome to my GitHub profile! I'm an AI Software Engineer specializing in Comput
 <div align="center">
 
 <!-- [![MattiaRigon's GitHub Streak](https://streak-stats.demolab.com?user=MattiaRigon&theme=dark)](https://git.io/streak-stats) -->
-[![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaRigon&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radious=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Stefano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaRigon&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/MattiaRigon)
+[![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanoobonetto&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radious=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Stefano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoobonetto&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/stefanoobonetto)
 
 </div>
 --- 
